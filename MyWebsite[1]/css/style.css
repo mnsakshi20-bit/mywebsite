@@ -1,0 +1,7 @@
+body {font-family: Arial; background: #eef2ff; padding:20px;}
+.title {text-align:center; color:#003399;}
+nav {text-align:center; margin-bottom:20px;}
+nav a {margin:10px; font-size:18px; font-weight:bold; color:green;}
+.profile-img {width:200px; display:block; margin:auto;}
+table {background:white; border-collapse:collapse; width:60%; margin:auto;}
+table td {border:1px solid black; padding:10px;}
